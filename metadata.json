@@ -1,0 +1,6 @@
+{
+  "name": "Eng-Troubleshooting Guide(ETG)",
+  "description": "A safety-first diagnostic wizard for operations troubleshooting",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
